@@ -1,0 +1,23 @@
+table,td,th {
+  border: 2px solid black;
+  text-align: center;
+}
+
+td {
+  padding: 20px;
+}
+
+.Hitam{
+  background-color: black;
+  color: white;
+}
+
+.Hijau{
+  background-color: green;
+  color: white;
+}
+
+.Merah{
+  background-color: red;
+  color: white;
+}

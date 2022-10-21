@@ -1,0 +1,45 @@
+.Header{
+    text-align: center;
+    border: 10px;
+    background-color: yellow;
+}
+
+table{
+    border-collapse:collapse;
+    border: 1px solid black;
+}
+
+th{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.NO{
+    text-align: center;
+}
+
+.AlamatBd{
+    text-align: center
+}
+
+.kolom2{
+    background-color: rebeccapurple;
+}
+
+.kolom1{
+    background-color: blue;
+}
+
+.AlamatBd{
+    background-color: burlywood;
+}
+
+.NO{
+    color: red;
+}
+
